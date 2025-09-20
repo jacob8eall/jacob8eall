@@ -5,7 +5,7 @@ Welcome to my cybersecurity portfolio. This repository documents hands-on projec
 Each folder contains project documentation, screenshots, and lessons learned.
 
 ## 🔹 Projects
-- [Wireshark Traffic Analysis](.[https://github.com/jacob8eall/Wireshark-Traffic-Analysis)
+- [Wireshark Traffic Analysis](./https://github.com/jacob8eall/Wireshark-Traffic-Analysis)
 - [Firewall Lab – pfSense & UFW](./firewall-lab)
 - [SOC Home Lab with Suricata & Wazuh](./soc-home-lab)
 - [Vulnerability Management with OpenVAS](./vuln-management-openvas)
