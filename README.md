@@ -1,26 +1,26 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Cybersecurity Portfolio – Jacob Beall
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Welcome to my cybersecurity portfolio. This repository documents hands-on projects I’ve completed while studying for certifications like the Google Cybersecurity Certificate, CompTIA Security+, and Network+.
 
-- <b>First Programming Project</b>
-  - [Hello World!](https://github.com/jacob8eall/LABURL)
+Each folder contains project documentation, screenshots, and lessons learned.
 
-<h2>📜 Certifictions</h2>
+## 🔹 Projects
+- [Wireshark Traffic Analysis](./wireshark-traffic-analysis)
+- [Firewall Lab – pfSense & UFW](./firewall-lab)
+- [SOC Home Lab with Suricata & Wazuh](./soc-home-lab)
+- [Vulnerability Management with OpenVAS](./vuln-management-openvas)
+- [Phishing Email Analysis](./phishing-analysis)
+- [Cloud Security Mini-Lab (AWS)](./cloud-security-lab)
 
+## 🔹 Current Certifications
+- Google Cybersecurity Certificate (in progress)
+- Cisco Networking Academy: Intro to Cybersecurity
+- Hack The Box Academy: Linux & Networking
+- CompTIA Security+ & Network+ (planned for early 2026)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 🔹 Contact
+- LinkedIn: [Your Profile]
+- Email: jacob8eall@gmail.com
 
 
 <!--
