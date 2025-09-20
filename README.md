@@ -5,13 +5,12 @@ Welcome to my cybersecurity portfolio. This repository documents hands-on projec
 Each folder contains project documentation, screenshots, and lessons learned.
 
 ## 🔹 Projects
-- [Wireshark Traffic Analysis](./https://github.com/jacob8eall/Wireshark-Traffic-Analysis)
+- [Wireshark Traffic Analysis](./jacob8eall/Wireshark-Traffic-Analysis)
 - [Firewall Lab – pfSense & UFW](./firewall-lab)
 - [SOC Home Lab with Suricata & Wazuh](./jacob8eall/SOC-Home-Lab)
 - [Vulnerability Management with OpenVAS](./vuln-management-openvas)
-- [Phishing Email Analysis](./phishing-analysis)
+- [Phishing Email Analysis](./jacob8eall/Phishing-Email-Analysis))
 - [Cloud Security Mini-Lab (AWS)](./cloud-security-lab)
-- https://github.com/jacob8eall/SOC-Home-Lab
 
 ## 🔹 Current Certifications
 - Google Cybersecurity Certificate (in progress)
