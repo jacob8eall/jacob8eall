@@ -7,7 +7,7 @@ Each folder contains project documentation, screenshots, and lessons learned.
 ## 🔹 Projects
 - [Wireshark Traffic Analysis](./https://github.com/jacob8eall/Wireshark-Traffic-Analysis)
 - [Firewall Lab – pfSense & UFW](./firewall-lab)
-- [SOC Home Lab with Suricata & Wazuh](./soc-home-lab)
+- [SOC Home Lab with Suricata & Wazuh](https://github.com/jacob8eall/SOC-Home-Lab)
 - [Vulnerability Management with OpenVAS](./vuln-management-openvas)
 - [Phishing Email Analysis](./phishing-analysis)
 - [Cloud Security Mini-Lab (AWS)](./cloud-security-lab)
