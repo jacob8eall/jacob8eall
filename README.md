@@ -11,6 +11,7 @@ Each folder contains project documentation, screenshots, and lessons learned.
 - [Vulnerability Management with OpenVAS](./vuln-management-openvas)
 - [Phishing Email Analysis](./phishing-analysis)
 - [Cloud Security Mini-Lab (AWS)](./cloud-security-lab)
+- https://github.com/jacob8eall/SOC-Home-Lab
 
 ## 🔹 Current Certifications
 - Google Cybersecurity Certificate (in progress)
