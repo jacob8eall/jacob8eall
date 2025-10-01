@@ -13,7 +13,7 @@ Each folder contains project documentation, screenshots, and lessons learned.
 - [Cloud Security Mini-Lab (AWS)](./cloud-security-lab)
 
 ## 🔹 Current Certifications
-- Google Cybersecurity Certificate (in progress)
+- Google Cybersecurity Certificate
 - Cisco Networking Academy: Intro to Cybersecurity
 - Hack The Box Academy: Linux & Networking
 - CompTIA Security+ & Network+ (planned for early 2026)
